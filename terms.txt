@@ -1,0 +1,119 @@
+1:"$Sreact.fragment"
+2:I[9925,["970","static/chunks/970-42694d733db6b922.js","687","static/chunks/687-ffe51a296d70c9cd.js","177","static/chunks/app/layout-48b6e18065bb6a19.js"],""]
+3:I[9055,["970","static/chunks/970-42694d733db6b922.js","687","static/chunks/687-ffe51a296d70c9cd.js","177","static/chunks/app/layout-48b6e18065bb6a19.js"],"default"]
+4:I[7269,[],""]
+5:I[3105,[],""]
+6:I[6145,["970","static/chunks/970-42694d733db6b922.js","687","static/chunks/687-ffe51a296d70c9cd.js","177","static/chunks/app/layout-48b6e18065bb6a19.js"],"Toaster"]
+7:I[778,["970","static/chunks/970-42694d733db6b922.js","687","static/chunks/687-ffe51a296d70c9cd.js","177","static/chunks/app/layout-48b6e18065bb6a19.js"],"GoogleAnalytics"]
+9:I[6650,[],"OutletBoundary"]
+b:I[6650,[],"MetadataBoundary"]
+d:I[6650,[],"ViewportBoundary"]
+f:I[1820,[],""]
+:HL["/_next/static/css/c7060e2fb47be36b.css","style"]
+0:{"P":null,"b":"wXEdmCxRksIHZgImGFyWB","p":"","c":["","terms"],"i":false,"f":[[["",{"children":["terms",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c7060e2fb47be36b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","body",null,{"className":"bg-stone-200 antialiased","children":[[["$","$L2",null,{"id":"plausible-analytics","strategy":"afterInteractive","defer":true,"data-domain":"base64toimage.github.io","src":"https://app.pageview.app/js/script.js"}],null,null,null],["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","header",null,{"className":"bg-zinc-800 text-white","children":["$","div",null,{"className":"max-w-4xl mx-auto py-2 px-4 flex flex-row items-center justify-between","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","a",null,{"href":"/","className":"flex items-center gap-2 hover:opacity-80","children":[["$","img",null,{"src":"/logo.svg","alt":"Logo","className":"h-10"}],["$","span",null,{"className":"text-xl font-bold","children":"Base64 to Image"}]]}]}],["$","div",null,{"className":"hidden md:flex items-center gap-6","children":["$","a",null,{"href":"/image-to-base64","className":"hover:underline whitespace-nowrap","children":"Image to Base64"}]}],["$","$L3",null,{}]]}]}],["$","main",null,{"className":"flex-grow w-full max-w-4xl mx-auto px-2 md:px-4","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-zinc-800 text-white","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 py-6","children":["$","div",null,{"className":"flex flex-col md:flex-row justify-between items-center","children":[["$","div",null,{"className":"mb-4 md:mb-0","children":["$","p",null,{"children":["© ",2025," Base64 to Image. All rights reserved."]}]}],["$","nav",null,{"children":["$","ul",null,{"className":"flex space-x-4","children":[["$","li",null,{"children":["$","a",null,{"href":"/terms","className":"hover:underline","children":"Terms of Service"}]}],["$","li",null,{"children":["$","a",null,{"href":"/privacy","className":"hover:underline","children":"Privacy Policy"}]}]]}]}]]}]}]}]]}],["$","$L6",null,{}]]}],["$","$L7",null,{"gaId":""}]]}]]}],{"children":["terms",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","terms","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":"$La"}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","iLCRr3hXD6t_nS32VQIgQ",{"children":[["$","$Lb",null,{"children":"$Lc"}],["$","$Ld",null,{"children":"$Le"}],null]}]]}],false]],"m":"$undefined","G":["$f","$undefined"],"s":false,"S":true}
+10:Tf28,<h1>Terms of Service</h1>
+<h2>Introduction</h2>
+<p>By using Base64 Image Converter (base64toimage.github.io), you agree to these terms of service. Please read them carefully.</p>
+<h2>Service Description</h2>
+<p>Base64 Image Converter is an open-source tool that allows users to:</p>
+<ul>
+<li>Convert images to Base64 encoded strings</li>
+<li>Convert Base64 strings back to images</li>
+<li>Process images locally in the browser</li>
+<li>Access the tool without registration</li>
+</ul>
+<h2>Open Source License</h2>
+<p>This project is open source and available under the MIT License:</p>
+<ul>
+<li>You can use, modify, and distribute the code</li>
+<li>The source code is available on GitHub</li>
+<li>Contributions are welcome under our contribution guidelines</li>
+</ul>
+<h2>Usage Terms</h2>
+<h3>Acceptable Use</h3>
+<p>You agree to use this service:</p>
+<ul>
+<li>For lawful purposes only</li>
+<li>Without violating any applicable laws</li>
+<li>Without infringing on others' intellectual property rights</li>
+<li>In accordance with these terms</li>
+</ul>
+<h3>Limitations</h3>
+<p>You agree not to:</p>
+<ul>
+<li>Attempt to bypass any service limitations</li>
+<li>Use the service in any way that could damage or overload it</li>
+<li>Distribute malicious content through the service</li>
+<li>Reverse engineer the service</li>
+</ul>
+<h2>User Content</h2>
+<h3>Your Content</h3>
+<ul>
+<li>You retain all rights to your images</li>
+<li>All processing happens locally in your browser</li>
+<li>We do not store or access your images</li>
+</ul>
+<h3>Responsibility</h3>
+<p>You are responsible for:</p>
+<ul>
+<li>The content you process through the service</li>
+<li>Ensuring you have the right to use the images</li>
+<li>Complying with applicable laws and regulations</li>
+</ul>
+<h2>Service Availability</h2>
+<h3>No Guarantees</h3>
+<ul>
+<li>The service is provided "as is"</li>
+<li>We do not guarantee uninterrupted service</li>
+<li>We may modify or discontinue features without notice</li>
+</ul>
+<h3>Maintenance</h3>
+<ul>
+<li>The service may be unavailable during maintenance</li>
+<li>Updates may be deployed at any time</li>
+<li>Being open source, you can host your own instance</li>
+</ul>
+<h2>Disclaimer of Warranties</h2>
+<p>THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:</p>
+<ul>
+<li>Merchantability</li>
+<li>Fitness for a particular purpose</li>
+<li>Non-infringement</li>
+</ul>
+<h2>Limitation of Liability</h2>
+<p>We shall not be liable for:</p>
+<ul>
+<li>Any indirect, incidental, or consequential damages</li>
+<li>Loss of data or profits</li>
+<li>Service interruptions or errors</li>
+<li>Any issues arising from the use of the service</li>
+</ul>
+<h2>Changes to Terms</h2>
+<p>We reserve the right to:</p>
+<ul>
+<li>Modify these terms at any time</li>
+<li>Post updates on this page</li>
+<li>Consider continued use as acceptance of changes</li>
+</ul>
+<h2>Contact Information</h2>
+<p>For questions about these terms:</p>
+<ul>
+<li>GitHub Discussions: <a href="https://github.com/base64toimage/base64toimage.github.io/discussions">discussions</a></li>
+<li>Issues: <a href="https://github.com/base64toimage/base64toimage.github.io/issues">issues</a></li>
+</ul>
+<h2>Governing Law</h2>
+<p>These terms shall be governed by and construed in accordance with applicable laws, without regard to conflict of law principles.</p>
+<h2>Severability</h2>
+<p>If any provision of these terms is found to be unenforceable:</p>
+<ul>
+<li>The remaining provisions will remain in effect</li>
+<li>The unenforceable provision will be modified to be enforceable</li>
+<li>If modification is impossible, the provision will be removed</li>
+</ul>
+<h2>Entire Agreement</h2>
+<p>These terms constitute the entire agreement between users and the service regarding the use of Base64 Image Converter.</p>
+<p>Last updated: January 9, 2024</p>
+8:["$","div",null,{"className":"py-12 space-y-10","children":["$","div",null,{"className":"w-full p-4 bg-white rounded-md shadow-md","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$10"},"className":"markdown-content prose prose-h1:text-center max-w-none"}]}]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Terms of Service"}],["$","meta","2",{"name":"description","content":"Terms of service for Base64 Image Converter - An open source tool for converting images to Base64 and vice versa."}],["$","link","3",{"rel":"canonical","href":"https://base64toimage.github.io/terms"}],["$","meta","4",{"property":"og:title","content":"Base64 to Image Converter"}],["$","meta","5",{"property":"og:description","content":"Free online Base64 to Image converter. Instantly convert Base64 strings to PNG, JPEG, GIF, WebP, SVG and more. Preview and download your converted images securely in browser."}],["$","meta","6",{"property":"og:image","content":"https://base64toimage.github.io/logo.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Base64 to Image Converter"}],["$","meta","12",{"name":"twitter:description","content":"Free online Base64 to Image converter. Instantly convert Base64 strings to PNG, JPEG, GIF, WebP, SVG and more. Preview and download your converted images securely in browser."}],["$","meta","13",{"name":"twitter:image","content":"https://base64toimage.github.io/logo.png"}],["$","meta","14",{"name":"twitter:image:width","content":"1200"}],["$","meta","15",{"name":"twitter:image:height","content":"630"}]]
+a:null
